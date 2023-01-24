@@ -47,10 +47,10 @@
     },
     "homepage": "https://github.com/davidfig/pixi-viewport#readme",
     "peerDependencies": {
-        "@pixi/display": "^7.0.4",
-        "@pixi/events": "^7.0.4",
-        "@pixi/math": "^7.0.4",
-        "@pixi/ticker": "^7.0.4"
+        "@pixi/display": "^7.1.1",
+        "@pixi/events": "^7.1.1",
+        "@pixi/math": "^7.1.1",
+        "@pixi/ticker": "^7.1.1"
     },
     "dependencies": {},
     "devDependencies": {
